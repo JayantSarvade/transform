@@ -7,7 +7,3 @@ tensile
 
 compression
 
-
-impact
-
-thank u
