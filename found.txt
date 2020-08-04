@@ -7,3 +7,8 @@ tensile
 
 compression
 
+
+som 
+
+tom
+
